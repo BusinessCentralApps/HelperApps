@@ -66,6 +66,7 @@ jobs:
           parentTelemetryScopeJson: ${{ needs.Initialization.outputs.telemetryScopeJson }}
           getProjects: 'Y'
           getEnvironments: '*'
+
   Build:
     needs: [ Analyze ]
     runs-on: ${{ fromJson(needs.Analyze.outputs.githubRunner) }}
