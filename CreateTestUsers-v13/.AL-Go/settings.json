@@ -1,0 +1,12 @@
+﻿{
+    "type":  "PTE",
+    "country":  "w1",
+    "enablePerTenantExtensionCop":  false,
+    "artifact":  "/onprem/13/w1/latest",
+    "doNotRunTests":  true,
+    "appFolders":  [
+                   ],
+    "testFolders":  [
+                        "CreateTestUsers"
+                    ]
+}

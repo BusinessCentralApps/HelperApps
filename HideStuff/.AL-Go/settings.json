@@ -1,0 +1,11 @@
+{
+    "type":  "PTE",
+    "country":  "us",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                       "HideStuff"
+                   ],
+    "testFolders":  [
+
+                    ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "d5566404-0b9d-4936-a34c-8c1b45fadb7b",
+  "name": "EnableEncryption",
+  "publisher": "Microsoft",
+  "version": "15.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+  ],
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "application": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50000
+    }
+  ],
+  "target": "OnPrem",
+  "showMyCode": true,
+  "runtime": "4.0"
+}

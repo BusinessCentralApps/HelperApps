@@ -1,0 +1,10 @@
+﻿{
+    "type":  "PTE",
+    "country":  "us",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                   ],
+    "testFolders":  [
+                        "CreateTestUsers"
+                    ]
+}

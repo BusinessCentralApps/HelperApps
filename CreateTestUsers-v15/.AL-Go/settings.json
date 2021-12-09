@@ -1,0 +1,13 @@
+﻿{
+    "type":  "PTE",
+    "country":  "w1",
+    "enablePerTenantExtensionCop":  false,
+    "artifact":  "/onprem/15/w1/latest",
+    "licenseFileUrlSecretName":  "licenseFile",
+    "appFolders":  [
+
+                   ],
+    "testFolders":  [
+                        "CreateTestUsers"
+                    ]
+}
