@@ -2,7 +2,7 @@
   "id": "d105a9fb-bcf3-4e99-b765-3199aac358f2",
   "name": "CreateTestUsers",
   "publisher": "Microsoft",
-  "version": "16.0.0.0",
+  "version": "22.0.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -15,12 +15,12 @@
       "appId": "9856ae4f-d1a7-46ef-89bb-6ef056398228",
       "publisher": "Microsoft",
       "name": "System Application Test Library",
-      "version": "16.0.0.0"
+      "version": "22.0.0.0"
     }
   ],
   "screenshots": [],
-  "platform": "16.0.0.0",
-  "application": "16.0.0.0",
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",
   "idRanges": [
     {
       "from": 50000,
